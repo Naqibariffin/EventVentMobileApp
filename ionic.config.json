@@ -1,0 +1,7 @@
+{
+  "name": "EventVent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
